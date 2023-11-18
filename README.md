@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=77Spencer77&label=Profile%20views&color=0e75b6&style=flat" alt="77Spencer77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=77Spencer77" alt="77Spencer77" /></a> </p>
-<a><img align="right" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif" alt="coding"/></a>
+<a><img align="right" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif" alt="coding" height="50"/></a>
 
 - 🌱 I’m currently learning **Mern Stack**
 
