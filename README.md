@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **77spencerradcliff77@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XBh6Q64_tYnbQwykHJyYL2XPovLpmVoE/view?usp=drivesdk)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1XBh6Q64_tYnbQwykHJyYL2XPovLpmVoE/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
