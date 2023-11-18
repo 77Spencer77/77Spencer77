@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=77Spencer77&label=Profile%20views&color=0e75b6&style=flat" alt="77Spencer77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=77Spencer77" alt="77Spencer77" /></a> </p>
-<a><img align="right" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" alt="coding"/></a>
+<a><img align="right" src="https://tenor.com/en-GB/view/aesthetic-typing-keyboard-computer-asset-gif-17295151" alt="coding"/></a>
 
 - 🌱 I’m currently learning **Mern Stack**
 
