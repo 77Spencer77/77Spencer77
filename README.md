@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Arunangshu Roy</h1>
-<h3 align="center">Development enthusiast | Problem Solver | Currently learning Mern STack</h3>
+<h3 align="center">Development enthusiast | Problem Solver | Currently learning Mern Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=77Spencer77&label=Profile%20views&color=0e75b6&style=flat" alt="77Spencer77" /> </p>
 
